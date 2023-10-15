@@ -8,3 +8,6 @@ def sum(n):
 
 
 print(sum(3))
+
+
+print("Hi")
